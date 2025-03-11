@@ -2,14 +2,14 @@
 # 📚 Diário de Engenharia de Software - Victor Hugo Anastacio
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-(Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
+As metodologias de desenvolvimento de software são um conjunto de técnicas e métodos organizacionais usados para criar soluções de softwares. O desenvolvimento de um produto sem uma metodologia clara torna o processo ainda mais complexo, ocasionando problemas, atrasos, erros e resultados indesejados.
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
-(Explique brevemente o modelo Cascata e suas características.)
+A metodologia de desenvolvimento de software cascata, surgiu em forma de otimizar a gestão desse tipo de projeto. Baseia-se em uma hierarquia rígida de etapas sequenciais, com um controle fixo das funções. A metodologia em cascata é marcada por suas etapas: levantamento de requisitos, planejamento, modelagem, desenvolvimento, testes e implantação.
 
 ### 🌐 Espiral  
-(Explique o modelo Espiral e como ele funciona.)
+É um processo evolucionário, ou seja, adequado para softwares que precisam passar por inúmeras evoluções na medida que o desenvolvimento acontece, a volta mais interna pode preocupar-se com a viabilidade do sistema; o ciclo seguinte, com definição de requisitos; o seguinte, com o projeto do sistema, e assim por diante.
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
