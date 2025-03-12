@@ -37,7 +37,7 @@
 ### 💪 GitHub / GitLab  
 - GitHub: é uma plataforma online que permite a hospedagem e compartilhamento de códigos de programação. De controle de versão distribuído, cada desenvolvedor tem uma cópia completa do histórico do projeto em seu computador local.
 - Gitlab: Oferece recursos avançados de controle de versão, permitindo que os desenvolvedores gerenciem facilmente diferentes versões do código fonte.
-  O GitHub Projects se integra estreitamente ao ecossistema do GitHub, oferecendo quadros no estilo Kanban para organizar tarefas e fluxos de trabalho.
+- O GitHub Projects se integra estreitamente ao ecossistema do GitHub, oferecendo quadros no estilo Kanban para organizar tarefas e fluxos de trabalho.
 O GitLab também oferece ferramentas abrangentes de gerenciamento de projetos, incluindo controle de problemas e quadros. 
 
 ### 🎮 Jira / Trello  
