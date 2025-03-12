@@ -41,4 +41,4 @@
 O GitLab também oferece ferramentas abrangentes de gerenciamento de projetos, incluindo controle de problemas e quadros. 
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+O Jira apresenta uma interface parecida com o Trello. Nele é possível gerenciar tarefas de forma simples, onde serão adicionadas no software, assim como os usuários, problemas e distribuir as tarefas.O Trello é mais flexível, o Jira oferece mais estrutura. O Jira oferece diferentes formas ágeis de trabalhar. Ambos são ótimos em gerenciar projetos.
