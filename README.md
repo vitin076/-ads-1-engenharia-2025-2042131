@@ -7,6 +7,8 @@
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
  A metodologia de desenvolvimento de software cascata, surgiu em forma de otimizar a gestão desse tipo de projeto. Baseia-se em uma hierarquia rígida de etapas sequenciais, com um controle fixo das funções. A metodologia em cascata é marcada por suas etapas: levantamento de requisitos, planejamento, modelagem, desenvolvimento, testes e implantação.
+ ![image](https://github.com/user-attachments/assets/e4700d4c-034e-499f-8528-b031968ff814)
+
 
 ### 🌐 Espiral  
  É um processo evolucionário, ou seja, adequado para softwares que precisam passar por inúmeras evoluções na medida que o desenvolvimento acontece, a volta mais interna pode preocupar-se com a viabilidade do sistema; o ciclo seguinte, com definição de requisitos; o seguinte, com o projeto do sistema, e assim por diante.
