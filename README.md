@@ -39,16 +39,20 @@
 
 ## 🎯 Kanban  
  Consiste em repartir as tarefas e organizá-las em um quadro de trabalho dividido em tarefas pendentes, em andamento e concluídas. Assim, é possível organizar um fluxo de trabalho bastante visual, com base na priorização de tarefas e no aumento do valor do produto.
+ ![image](https://github.com/user-attachments/assets/60ce0a84-4998-4f3e-afe3-acd94e625e62)
 
 ## 🚀 Extreme Programming (XP)  
  Seu principal objetivo é criar um bom ambiente de trabalho em equipe, além de feedback constante do cliente. O trabalho é baseado em 12 conceitos: design simples, teste, refatoração e codificação com padrões, propriedade coletiva do código, programação pareada, integração contínua, entregas semanais e integridade com o cliente, cliente in loco, entregas frequentes e planejamento.
+ ![image](https://github.com/user-attachments/assets/7512c90c-403e-48ba-897e-7f25690c3bcc)
+
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
 - GitHub: é uma plataforma online que permite a hospedagem e compartilhamento de códigos de programação. De controle de versão distribuído, cada desenvolvedor tem uma cópia completa do histórico do projeto em seu computador local.
 - Gitlab: Oferece recursos avançados de controle de versão, permitindo que os desenvolvedores gerenciem facilmente diferentes versões do código fonte.
 - O GitHub Projects se integra estreitamente ao ecossistema do GitHub, oferecendo quadros no estilo Kanban para organizar tarefas e fluxos de trabalho.
-O GitLab também oferece ferramentas abrangentes de gerenciamento de projetos, incluindo controle de problemas e quadros. 
+O GitLab também oferece ferramentas abrangentes de gerenciamento de projetos, incluindo controle de problemas e quadros.
+
 
 ### 🎮 Jira / Trello  
 O Jira apresenta uma interface parecida com o Trello. Nele é possível gerenciar tarefas de forma simples, onde serão adicionadas no software, assim como os usuários, problemas e distribuir as tarefas.O Trello é mais flexível, o Jira oferece mais estrutura. O Jira oferece diferentes formas ágeis de trabalhar. Ambos são ótimos em gerenciar projetos.
