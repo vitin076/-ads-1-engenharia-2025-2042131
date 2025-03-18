@@ -12,14 +12,20 @@
 
 ### 🌐 Espiral  
  É um processo evolucionário, ou seja, adequado para softwares que precisam passar por inúmeras evoluções na medida que o desenvolvimento acontece, a volta mais interna pode preocupar-se com a viabilidade do sistema; o ciclo seguinte, com definição de requisitos; o seguinte, com o projeto do sistema, e assim por diante.
+ ![image](https://github.com/user-attachments/assets/de995a30-9998-4311-bd25-a2dd3ceee224)
+
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
  As equipes de trabalho que as utilizam são muito mais produtivas e eficientes, pois sabem o que precisam fazer a cada momento. Além disso, esse modelo permite adaptar o software às necessidades que surgem ao longo do caminho, o que facilita a construção de aplicativos mais funcionais. Pouco a pouco, o produto final é construído e aprimorado e o cliente pode acompanhar o andamento do projeto em tempo real, contribuindo com novas demandas ou ajustes.
+ ![image](https://github.com/user-attachments/assets/350e8d49-f338-434c-b925-702885700e7e)
+
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
  Estrutura-se a partir de períodos curtos e fixos de tempo (entre duas e quatro semanas) para alcançar um resultado completo em cada fase. Cada uma das etapas é chamada de sprint. Elas se dividem em: planejamento do sprint (planning sprint), execução (sprint), reunião diária (daily meeting) e demonstração de resultados (sprint review). 
+ ![image](https://github.com/user-attachments/assets/fc2f2edd-c11a-4a18-9fc6-dca505fb45ae)
+
 
 ### 💬 Cerimônias  
 1. A equipe define o que será feito no sprint e como será feito.
@@ -27,6 +33,8 @@
 3. Os sprints ajudam as equipes a fornecer produtos melhores com menos dificuldades
 4. A duração do sprint pode variar de acordo com as necessidades do projeto e da equipe, mas gralmente duram de dois a quatro semanas
 5. Os sprints permitem que as equipes lancem trabalhos de alta qualidade mais rápido e com mais frequência podendo conter flexibilidade de adaptação às mudanças
+ ![image](https://github.com/user-attachments/assets/f823b75f-a44c-433e-a254-bf3604b08ef4)
+
 
 
 ## 🎯 Kanban  
